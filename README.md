@@ -5,6 +5,7 @@ Sistema para sugestões de lugares para viajar usando OpenAI
 - ``java 17``
 - ``Spring Boot 3.2.5``
 - ``Maven``
+- ``OpenAI``
 - ``Intellij IDEA``
 - ``Git e GitHub``
 - ``Postman - para teste da API local``
